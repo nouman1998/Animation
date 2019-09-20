@@ -1,0 +1,1 @@
+App is working on 33% of browser zoom size
